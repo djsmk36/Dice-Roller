@@ -1,0 +1,5 @@
+{
+    "editor.renameOnType": true,
+    "files.autoSave": "onWindowChange",
+    "editor.definitionLinkOpensInPeek": true
+}
